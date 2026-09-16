@@ -159,6 +159,19 @@ A Tkinter-based graphical user interface is included in this project.
 The user can enter mobile phone specifications and click the \*\*PREDICT PRICE\*\* button to get the estimated mobile phone price.
 
 
+## 🖥️ GUI Screenshot
+
+![Mobile Phone Price Prediction GUI](gui_screenshot.png)
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/mohitkrebel9696-max/Mobile_Phone_Price_Prediction.git
+cd Mobile_Phone_Price_Prediction
+
+
 
 \## 📁 Project Structure
 
